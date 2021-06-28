@@ -1,0 +1,8 @@
+
+*.properties
+*/target/**
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/net.guides.springboot/registration-login-springboot-security-thymeleaf/pom.xml
+target/classes/templates/index.html
+target/classes/templates/login.html
+target/classes/templates/registration.html
