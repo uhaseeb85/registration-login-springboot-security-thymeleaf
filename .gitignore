@@ -6,3 +6,16 @@ target/classes/META-INF/maven/net.guides.springboot/registration-login-springboo
 target/classes/templates/index.html
 target/classes/templates/login.html
 target/classes/templates/registration.html
+target/classes/net/javaguides/springboot/springsecurity/Application.class
+target/classes/net/javaguides/springboot/springsecurity/config/SecurityConfiguration.class
+target/classes/net/javaguides/springboot/springsecurity/constraint/FieldMatch$List.class
+target/classes/net/javaguides/springboot/springsecurity/constraint/FieldMatch.class
+target/classes/net/javaguides/springboot/springsecurity/constraint/FieldMatchValidator.class
+target/classes/net/javaguides/springboot/springsecurity/model/Role.class
+target/classes/net/javaguides/springboot/springsecurity/model/User.class
+target/classes/net/javaguides/springboot/springsecurity/repository/UserRepository.class
+target/classes/net/javaguides/springboot/springsecurity/service/UserService.class
+target/classes/net/javaguides/springboot/springsecurity/service/UserServiceImpl.class
+target/classes/net/javaguides/springboot/springsecurity/web/dto/UserRegistrationDto.class
+target/classes/net/javaguides/springboot/springsecurity/web/MainController.class
+target/classes/net/javaguides/springboot/springsecurity/web/UserRegistrationController.class
